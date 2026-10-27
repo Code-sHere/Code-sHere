@@ -28,6 +28,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | [**Twitter Clone**](https://github.com/Code-sHere/Twitter_clone) | Social media app with posts, profiles and interactions | MERN |
+| [**Portfolio**](https://github.com/Code-sHere/Portfolio) | It's my portfolio where anyone can know about me | Next.js, Framer Motion |
+| [**SERVD**](https://github.com/Code-sHere/Ai-recipe-maker) | SERVD — AI-Powered Recipe & Pantry Management Platform | Next.js, Clerk, Strapi, Strapi-managed content/data |
 | [**Chat Sphere**](https://github.com/Code-sHere/Chat-Sphere) | Real-time private and group chat with file sharing | Java, Spring Boot, WebSocket |
 
 ---

@@ -19,7 +19,7 @@
 - 🛠️ I build projects like a Twitter clone and a real-time chat app
 - 🌱 Currently improving my skills in React, Node.js and system design
 - 💼 **Currently looking for a job / internship**
-- 📫 Reach me at: anshjaat7102010@gmail.com
+- 📫 Reach me at: vansh858688@gmail.com
 
 ---
 
